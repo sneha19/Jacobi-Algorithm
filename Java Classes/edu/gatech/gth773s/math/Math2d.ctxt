@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=e\ x\ epsilon
+comment0.target=Vector2d\ createGradient(functionParser.Evaluator,\ Vector2d,\ double)
+comment0.text=\r\n\ Calculates\ the\ gradient\ of\ a\ function\ at\ a\ position.\r\n\ @param\ e\ the\ Evaluator\ for\ the\ function\r\n\ @param\ x\ the\ position\ at\ which\ to\ calculate\ the\ gradient\r\n\ @param\ epsilon\ the\ epsilon\ used\ in\ the\ approximation\r\n
+comment1.params=e\ p\ epsilon\ v
+comment1.target=double\ partialDerivative(functionParser.Evaluator,\ Vector2d,\ double,\ Math2d.Var)
+comment1.text=\r\n\ Calculates\ the\ partial\ derivative\ of\ a\ function\r\n\ at\ a\ point\ with\ respect\ to\ a\ particular\ variable\r\n\ @param\ e\ the\ Evaluator\ representing\ the\ function\r\n\ @param\ p\ the\ point\ at\ which\ to\ evaluate\ the\ partial\r\n\ @param\ v\ the\ variable\ with\ which\ to\ differentiate\r\n
+comment2.params=f\ g\ x\ epsilon
+comment2.target=Matrix2d\ createJacobian(functionParser.Evaluator,\ functionParser.Evaluator,\ Vector2d,\ double)
+comment3.params=f\ x\ epsilon
+comment3.target=Matrix2d\ createHessian(functionParser.Evaluator,\ Vector2d,\ double)
+numComments=4

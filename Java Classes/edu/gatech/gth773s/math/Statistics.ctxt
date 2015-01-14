@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Statistics()
+comment0.text=\r\n\ Create\ a\ Statistics\ object\ with\ an\ empty\ dataset.\r\n
+comment1.params=list
+comment1.target=Statistics(java.lang.Number[])
+comment1.text=\r\n\ Create\ a\ Statistics\ object\ with\ numbers\ in\ it.\r\n\ @param\ list\ numbers\ to\ add\ to\ the\ dataset\r\n
+comment2.params=n
+comment2.target=void\ add(java.lang.Number)
+comment2.text=\r\n\ Add\ a\ single\ number\ to\ the\ dataset.\r\n\ @param\ number\ to\ be\ added\r\n
+comment3.params=list
+comment3.target=void\ add(java.lang.Number[])
+comment3.text=\r\n\ Add\ an\ array\ of\ numbers\ to\ the\ dataset.\r\n\ @param\ list\ array\ containing\ the\ numbers\ to\ add\r\n
+comment4.params=
+comment4.target=double\ sum()
+comment4.text=\r\n\ Calculate\ the\ sum\ of\ all\ the\ numbers.\r\n
+comment5.params=
+comment5.target=double\ mean()
+comment5.text=\r\n\ Calculate\ the\ average\ (arithmetic\ mean).\r\n
+comment6.params=
+comment6.target=double\ standardDeviation()
+comment6.text=\r\n\ Calculate\ the\ standard\ deviation\ of\ the\ data.\r\n
+numComments=7

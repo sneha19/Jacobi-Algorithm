@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dimension
+comment0.target=JacobiPanel(java.awt.Dimension)
+comment1.params=big
+comment1.target=void\ jacobi(int)
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
